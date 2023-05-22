@@ -56,7 +56,7 @@ const NavigationBar = ({ searchTerm, setSearchTerm, itemCount }) => {
                     <InputGroup>
                       <Form.Control
                         className="py-2 px-4 my-0 rounded-start "
-                        placeholder="Recipient's username"
+                        placeholder="Search your product"
                         aria-label="Recipient's username"
                         aria-describedby="basic-addon2"
                         value={searchTerm}
